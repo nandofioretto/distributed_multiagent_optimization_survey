@@ -14,17 +14,17 @@ All changes will be logged and can be seen in the [Log section](#log).
 A list of algorithms currently described in the survey is available in the [List of Algorithms section](#algorighms). 
 
 If your work is not currently covered and you would like the authors to include it 
-in the survey, you can send a request: 
+in the survey, you can send a request using the following link: 
 
 [Submit your request](https://forms.gle/neSjptZocJT3VVzf9)
 
-Therein, please report:
+Therein, you will be asked to report:
 - Why is the algorithm/model relevant to the survey.
 - A summary of the algorithm, model, or application (no more than 2000 characters).
 - For algorithmic work: 
   + Where does the new algorithm fall in the algorithm taxonomy described in Figure 5 of the survey paper
-  + A summary of the results obtained by the new algorithm (on which benchmarks was it evaluated, 
-  which algorithms have been compared, what are the results?)
+  + A summary of the results obtained by the new algorithm (benchmarks adopted, 
+  algorithms compared, experimental results)
 - For new applications: 
   + In which category does the new application falls with respect to the categorization 
   reported in Table 5 of the survey paper.
