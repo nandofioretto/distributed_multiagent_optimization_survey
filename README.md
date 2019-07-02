@@ -28,7 +28,7 @@ Therein, please report:
   which algorithms have been compared, what are the results?)
 - For new applications: 
   + In which category does the new application falls with respect to the categorization 
-  reported in Table5 of the survey paper.
+  reported in Table 5 of the survey paper.
 
 Failure to provide the required information may result in rejecting the proposal. 
 
