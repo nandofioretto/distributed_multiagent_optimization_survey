@@ -11,7 +11,7 @@ All changes will be logged and can be seen in the [Log section](#log).
 
 ## Submit your work
 
-A list of algorithms currently described in the survey available [here](#algorighms). 
+A list of algorithms currently described in the survey is available in the [List of Algorithms section](#algorighms). 
 
 If your work is not currently covered and you would like the authors to include it 
 in the survey, you can send a request: 
