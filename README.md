@@ -2,6 +2,7 @@
 
 This repository is associated with the paper 
 - Ferdinando Fioretto, Enrico Pontelli, William Yeoh. "_Distributed Constraint Optimization Problems and Applications: A Survey_" J. Artif. Intell. Res. 61: 623-698 (2018) 
+
 The above surveys the state-of-the-art on Distributed Multiagent optimization. 
 
 The authors will release regular updates of paper on the associated [ArXiv release](https://arxiv.org/abs/1602.06347) 
