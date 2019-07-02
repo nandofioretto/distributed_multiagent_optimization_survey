@@ -5,10 +5,9 @@ This repository is associated with the paper
 
 The above surveys the state-of-the-art on Distributed Multiagent optimization. 
 
-The authors will release regular updates of paper on the associated [ArXiv release](https://arxiv.org/abs/1602.06347) 
-to include new distributed algorithms, model, and applications proposed by researchers in the community. 
+The authors will release regular updates of the paper on its associated [ArXiv release](https://arxiv.org/abs/1602.06347). The updates will cover new distributed algorithms, model, and applications proposed by researchers in the community. 
 
-The changes will be logged and can be seen [here](#log).
+All changes will be logged and can be seen in the [Log section](#log).
 
 ## Submit your work
 
