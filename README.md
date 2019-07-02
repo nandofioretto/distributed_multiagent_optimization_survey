@@ -34,12 +34,23 @@ Failure to provide the required information may result in rejecting the proposal
 
 <a name="algorithms">
   
-## Classical DCOP Algorithms 
+## List of Current Algorithms
 
-### Complete Methods 
+### Classical DCOP Algorithms 
+#### Complete Methods 
+#### Incomplete Methods
 
-### Incomplete Methods
+### Asymmetric DCOP Algorithms
+#### Complete Methods 
+#### Incomplete Methods
 
+### Dynamic DCOP Algorithms
+#### Complete Methods 
+#### Incomplete Methods
+
+### Probabilistic DCOP Algorithms
+#### Complete Methods 
+#### Incomplete Methods
 
 <a name="log">
   
