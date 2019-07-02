@@ -20,7 +20,7 @@ in the survey, you can send a request:
 
 [Submit your request](https://forms.gle/neSjptZocJT3VVzf9)
 
-Therein, please report explaining:
+Therein, please report:
 - Why is the algorithm/model relevant to the survey.
 - A summary of the algorithm, model, or application (no more than 2000 characters).
 - For algorithmic work: 
