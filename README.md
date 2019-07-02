@@ -13,9 +13,13 @@ The changes will be logged and can be seen [here](#log).
 
 ## Submit your work
 
-A list of algorithms is available [here](#algorighms). 
-If your work is not covered, and you would like the authors to include it in the survey, 
-you can send a request [here](https://forms.gle/neSjptZocJT3VVzf9).
+A list of algorithms currently described in the survey available [here](#algorighms). 
+
+If your work is not currently covered and you would like the authors to include it 
+in the survey, you can send a request: 
+
+[Submit your request](https://forms.gle/neSjptZocJT3VVzf9)
+
 Therein, please report explaining:
 - Why is the algorithm/model relevant to the survey.
 - A summary of the algorithm, model, or application (no more than 2000 characters).
