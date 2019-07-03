@@ -36,20 +36,90 @@ Failure to provide the required information may result in rejecting the proposal
 ## List of Current Algorithms
 
 ### Classical DCOP Algorithms 
-#### Complete Methods 
-#### Incomplete Methods
+#### Complete Algorithms 
+- Synchronous Branch-and-Bound (SyncBB) - _Hirayama & Yokoo, 1997_
+- Asynchronous Forward Bounding (AFB) - _Gershman et al., 2009_
+- Asynchronous Distributed OPTimization (ADOPT) - _Modi et al., 2005_
+- Concurrent Forward Bounding (ConcFB) - _Netzer, Grubshtein, & Meisels, 2012_
+- Distributed Pseudo-tree Optimization Procedure (DPOP) - _Petcu & Faltings, 2005b_
+- Optimal Asynchronous Partial Overlay (OptAPO) - _Mailler & Lesser, 2004_
+
+#### Incomplete Algorithms
+- Max-Sum - _Farinelli et al., 2008_
+- Region Optimal - _Pearce & Tambe, 2007_
+- Maximum Gain Message (MGM) - _Maheswaran, Pearce, & Tambe, 2004a_
+- Distributed Stochastic Algorithm (DSA) - _Zhang, Wang, Xing, & Wittenberg, 2005_
+- Distributed Upper Confidence Tree (DUCT) - _Ottens, Dimitrakakis, & Faltings, 2017_
+- Distributed-Gibbs (D-Gibbs) - _Nguyen, Yeoh, & Lau, 2013_
 
 ### Asymmetric DCOP Algorithms
-#### Complete Methods 
-#### Incomplete Methods
+#### Complete Algorithms 
+- Synchronous Asymmetric Branch and Bound 2-phase (SyncABB-2ph) - _Grinshpoun et al., 2013_
+- Synchronous Asymmetric Branch and Bound 1-phase SyncABB-1ph - _Grinshpoun et al., 2013; Levit et al., 2013_
+- Asymmetric Two-Way Bounding (ATWB) - _Grinshpoun et al., 2013_
+
+#### Incomplete Algorithms
+- Asymmetric Coordinated Local Search (ACLS) - _Grinshpoun et al., 2013_
+- Minimal Constraint Sharing MGM (MCS-MGM) - _Grinshpoun et al., 2013_
+
+### Multi-objective DCOP Algorithms
+#### Complete Algorithms 
+- Multi-Objective Synchronous Branch and Bound (MO-SBB) - _Medi, Okimoto, & Inoue, 2014_
+- Pseudo-tree Based Algorithm - Matsui et al. 2012)
+
+
+#### Incomplete Algorithms
+- Bounded Multi-Objective Max-Sum (B-MOMS) - _Delle Fave et al., 2011_
+- Dynamic Programming based on Aggregate Objective Functions (DP-AOF)  - _Okimoto, Clement, & Inoue, 2013_
+- Multi-Objective Lp-norm based
+- Distributed Pseudo-tree Optimization Procedure (MO-DPOPLp) - _Okimoto et al., 2014_
+- Distributed Iterated Pareto Local Search (DIPLS) - _Wack et al., 2014_
+
 
 ### Dynamic DCOP Algorithms
-#### Complete Methods 
-#### Incomplete Methods
+#### Complete Algorithms 
+- Self-stabilizing DPOP (S-DPOP) - _Petcu & Faltings, 2005c_
+- Incremental Anyspace ADOPT (I-ADOPT) - _Yeoh, et al., 2011_ 
+- Incremental Any-space BnB-ADOPT (I-BnB-ADOPT) - _Yeoh, et al., 2011_ 
+
+
+#### Incomplete Algorithms
+- Support Based Distributed Optimization (SBDO) - _Billiau, Chang, & Ghose, 2012a_
+- Fast Max-Sum (FMS) - _Ramchurn, et al., 2010_
+
+#### Dynamic DCOP Variants
+- RS-DPOP _Petcu & Faltings, 2007b_
+- Distributed Q-learning and R-learning _Nguyen, et al., 2014_
 
 ### Probabilistic DCOP Algorithms
-#### Complete Methods 
-#### Incomplete Methods
+
+#### Complete Algorithms 
+- $\mathbb{E}$[DPOP] - _(Leaute' & Faltings, 2011)_
+- Stochastic Dominance DPOP (SD-DPOP) - _Nguyen et al., 2012_
+
+
+#### Incomplete Algorithms
+- Distributed Neighbor Exchange Algorithm (DNEA) - _Atlas & Decker, 2010_
+- Uncertain Generalized Distributive Law (U-GDL) - _Stranders et al., 2011_
+
+
+#### Probabilistic DCOP Variants
+- The Balanced Exploration Rebid (BE-Rebid) - _Taylor et al., 2010_
+- Heist - _Stranders et al., 2012_
+- Iterative Constraint Generation Max-Sum (ICGMax-Sum) _Wu & Jennings, 2014_
+
+
+<a name="resources">
+
+## Resources
+
+### DCOP Solvers
+
+### Datasets
+
+### Tutorials
+
+
 
 <a name="log">
   
